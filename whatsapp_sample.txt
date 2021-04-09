@@ -1,0 +1,8 @@
+1. Chats can done
+
+2.Stickers can be send
+
+3.Call can be active
+
+4.Status can updated
+
