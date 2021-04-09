@@ -6,3 +6,4 @@
 
 4.Status can updated
 
+5.Set profile picture
