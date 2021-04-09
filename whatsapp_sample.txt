@@ -1,4 +1,4 @@
-1. Chats can done
+1. Chats can done (documents,photos,videos,audios)
 
 2.Stickers can be send
 
