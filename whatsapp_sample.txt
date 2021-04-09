@@ -7,3 +7,5 @@
 4.Status can updated
 
 5.Set profile picture
+
+6.Video calls can be done
